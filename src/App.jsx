@@ -245,10 +245,10 @@ function App() {
               </div>
             </div>
             <div className="contact-item">
-              <div className="contact-item-icon">✉️</div>
+              <div className="contact-item-icon">✉️</div>            
               <div>
                 <h4>Email</h4>
-                <p>alsse.logistica@outlook.com</p>
+                <p>comercial@alsselogistic.com</p>
               </div>
             </div>
             <div className="contact-item">
